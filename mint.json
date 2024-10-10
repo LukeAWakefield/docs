@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Studio Apollo Handbook",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/StudioApolloLogoR.svg"
+    "dark": "/logo/StudioApolloLogoR.svg",
+    "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
